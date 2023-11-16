@@ -3,3 +3,7 @@ header h1{
     color: tomato;
     background-color:DodgerBlue;
 }
+
+footer {
+    background-color: cadetblue;
+}
