@@ -42,13 +42,6 @@ header {
     height: 400px;
 }
 
-#main p{
-    text-wrap: wrap;
-}
-
-
-
-
 #footer {
     display: flexbox;
     background-color: #4E4F50;
