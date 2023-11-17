@@ -4,7 +4,11 @@ header h1{
     background-color:#542e0d;
 }
 
-footer {
+#footer {
+    display: flexbox;
+    flex-direction: column;
+    align-self: end;
     background-color: #542e0d;
     text-align: center;
+
 }
