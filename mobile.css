@@ -1,14 +1,14 @@
 header h1{
     text-align: center;
-    color: #f37101;
-    background-color:#542e0d;
+    color: #b95345;
+    background-color:#2a2527;
 }
 
 #footer {
     display: flexbox;
     flex-direction: column;
     align-self: end;
-    background-color: #542e0d;
+    background-color: #2a2527;
     text-align: center;
-
+    color: #b95345;
 }
