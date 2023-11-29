@@ -10,11 +10,20 @@ nav{
     display: flex;
     justify-content: space-between;
     flex-direction: column;
+    text-decoration: none;
+
+}
+
+nav a {
+    display:block;
+    background: #b95345;
+    color:white;
 }
 
 header{
     display:flex;
-    /* justify-content: space-between; */
+    justify-content: space-between;
+    flex-wrap: nowrap;
 }
 
 header img{
@@ -26,6 +35,8 @@ header h1{
     flex-direction: column;
     justify-content: center;
     margin:0;
+    background-color: #b95345;
+    
 }
 
 header, footer{
